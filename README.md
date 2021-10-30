@@ -3,7 +3,7 @@ A passionate developer from Lyon in France.
 
 <h3>About me</h3>
 I'm looking for a position as a Junior developper in a company with positive impact, essentially with React Native.<br>
-In my opinion, technology can be a facilitator and can tremendously improve our lives.<br>
+In my opinion, technology can be a facilitator and tremendously improve our lives.<br>
 By the way I'm also the co-founder of this beautiful company --> https://www.agriz.fr
   
 - 🔭 I’m currently working on **my personal site which will be an hybrid between a portfolio, a blog and a diary.**
