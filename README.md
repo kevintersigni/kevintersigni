@@ -20,7 +20,7 @@ By the way I'm also the co-founder and former CTO of this beautiful company --> 
 <br> [World Of Marvel](https://github.com/kevintersigni/marvel-frontend)
 <br> [Airbnb copycat](https://github.com/kevintersigni/airbnb-reactnative)
 <br> [Minted](https://github.com/kevintersigni/vinted-front-end)
-<br> [TellMeMore]()
+<br> [TellMeMore](https://github.com/kevintersigni/tellmemore)
 
 - 📝 I regularly write articles on Medium (not yet but I'm working on it !) [https://medium.com/@kevin.tersigni](https://medium.com/@kevin.tersigni)
 
