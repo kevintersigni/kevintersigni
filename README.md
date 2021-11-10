@@ -4,9 +4,9 @@ A passionate developer from Lyon in France.
 <h3>About me</h3>
 I'm looking for a position as a Junior developper in a company with positive impact.<br>
 In my opinion, technology can be a facilitator and tremendously improve our lives.<br>
-By the way I'm also the co-founder and former CTO of this beautiful company --> https://www.agriz.fr
+By the way I'm also the co-founder and former CTO of this beautiful company : https://www.agriz.fr
   
-- 🔭 I’m currently working on **my personal site which will be an hybrid between a portfolio, a blog and a diary.**
+- 🔭 I’m currently working on **my personal site which will be an hybrid between a portfolio, a blog and a diary**  👉🏼  [2manydevs](https://github.com/kevintersigni/2manydevs-frontend).
 
 - 👨🏻‍💻 I'm also working on **a mobile app in order to facilitate my meals and recipes inside my diet plan.**
 
@@ -17,6 +17,7 @@ By the way I'm also the co-founder and former CTO of this beautiful company --> 
 - 👯 I’m looking to collaborate on **projects with positive impact in food, social, agricultural, medicine, sports or sustainable energy sectors.**
 
 - 🚀 What are my featured projects❓ 
+<br> [2manydevs](https://github.com/kevintersigni/2manydevs-frontend)
 <br> [World Of Marvel](https://github.com/kevintersigni/marvel-frontend)
 <br> [Airbnb copycat](https://github.com/kevintersigni/airbnb-reactnative)
 <br> [Minted](https://github.com/kevintersigni/vinted-front-end)
