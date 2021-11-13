@@ -6,7 +6,7 @@ I'm looking for a position as a Junior developper in a company with positive imp
 In my opinion, technology can be a facilitator and tremendously improve our lives.<br>
 By the way I'm also the co-founder and former CTO of this beautiful company : https://www.agriz.fr
   
-- 🔭 I’m currently working on **my personal site which will be an hybrid between a portfolio, a blog and a diary**  👉🏼  [2manydevs](https://github.com/kevintersigni/2manydevs-frontend).
+- 🔭 I’m currently working on **my personal site which is an hybrid between a portfolio, a blog and a diary**  👉🏼  [2manydevs](https://github.com/kevintersigni/2manydevs-frontend).
 
 - 👨🏻‍💻 I'm also working on **a mobile app in order to facilitate my meals and recipes inside my diet plan.**
 
