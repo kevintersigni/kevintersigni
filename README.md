@@ -17,10 +17,16 @@ By the way I'm also the co-founder and former CTO of this beautiful company : ht
 - 👯 I’m looking to collaborate on **projects with positive impact in food, social, agricultural, medicine, sports or sustainable energy sectors.**
 
 - 🚀 What are my featured projects❓ 
+<br> 💻 React
 <br> [2manydevs](https://github.com/kevintersigni/2manydevs-frontend)
 <br> [World Of Marvel](https://github.com/kevintersigni/marvel-frontend)
-<br> [Airbnb copycat](https://github.com/kevintersigni/airbnb-reactnative)
 <br> [Minted](https://github.com/kevintersigni/vinted-front-end)
+<br> -
+<br> 📲 React Native
+<br> [Airbnb copycat](https://github.com/kevintersigni/airbnb-reactnative)
+<br> [2manymeals](https://github.com/kevintersigni/2manymeals)
+
+
 
 
 - 📝 I regularly write articles on Medium (not yet but I'm working on it !) [https://medium.com/@kevin.tersigni](https://medium.com/@kevin.tersigni)
