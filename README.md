@@ -1,22 +1,19 @@
 ## Hi 👋, I'm Kevin
-A passionate developer from Lyon in France.
+A passionate developer from Lyon in France who works for [SQLI](https://github.com/sqli).
 
 <h3>About me</h3>
-I'm looking for a position as a Junior developper in a company with positive impact.<br>
+
 In my opinion, technology can be a facilitator and tremendously improve our lives.<br>
 By the way I'm also the co-founder and former CTO of this beautiful company : https://www.agriz.fr
   
-- 🔭 I’m currently working on **my personal site which is an hybrid between a portfolio, a blog and a diary**  👉🏼  [2manydevs](https://github.com/kevintersigni/2manydevs-frontend).
+- 🔭 I’m currently working on **my personal site which is an hybrid between a portfolio, a blog and a diary**  👉🏼  [2manydevs](https://github.com/kevintersigni/2manydevs-frontend) (not true, I did yes last year cook a combo between NextJs and Strapi but now I'm more interested in React Native so I left this website aside).
 
-- 👨🏻‍💻 I'm also working on **a mobile app in order to facilitate my meals and recipes inside my diet plan.**
+- 👨🏻‍💻 I'm also working on **a mobile app in order to facilitate social meetings.** (so so true)
 
-- 🌱 I’m currently learning **usage of Strapi and NextJS in order to replace Wordpress for my blog.**
+- 🌱 I’m currently learning **Typescript.**
 
-- 🤓 I'm concerned about **Typescript, Redux and tests so I will dive into it ASAP.**
 
-- 👯 I’m looking to collaborate on **projects with positive impact in food, social, agricultural, medicine, sports or sustainable energy sectors.**
-
-- 🚀 What are my featured projects❓ 
+- 🚀 What were my featured projects as a student in [Le Reacteur](https://github.com/lereacteur)❓ 
 <br> 💻 React
 <br> [2manydevs](https://github.com/kevintersigni/2manydevs-frontend)
 <br> [World Of Marvel](https://github.com/kevintersigni/marvel-frontend)
@@ -29,7 +26,7 @@ By the way I'm also the co-founder and former CTO of this beautiful company : ht
 
 
 
-- 📝 I regularly write articles on Medium (not yet but I'm working on it !) [https://medium.com/@kevin.tersigni](https://medium.com/@kevin.tersigni)
+- 📝 I regularly write articles on Medium (bullshit but I'm working on it !) [https://medium.com/@kevin.tersigni](https://medium.com/@kevin.tersigni)
 
 - 📫 How to reach me: **kevin.tersigni@me.com**
 
