@@ -1,52 +1,53 @@
-## Hi 👋, I'm Kevin
-A passionate developer from Lyon in France who works for [SQLI](https://github.com/sqli).
+# Hi, I'm Kevin 👋
 
-<h3>About me</h3>
+**Senior React Native developer · Expo · Agentic AI workflow · Mobile analytics & growth**
 
-In my opinion, technology can be a facilitator and tremendously improve our lives.<br>
-By the way I'm also the co-founder and former CTO of this beautiful company : https://www.agriz.fr
-  
-- 🔭 I’m currently working on **my personal site which is an hybrid between a portfolio, a blog and a diary**  👉🏼  [2manydevs](https://github.com/kevintersigni/2manydevs-frontend) (not true, I did yes last year cook a combo between NextJs and Strapi but now I'm more interested in React Native so I left this website aside).
+I ship mobile apps faster with an agentic AI workflow, then measure whether what ships actually moves activation, engagement and retention.
+📍 Montpellier, France · remote
 
-- 👨🏻‍💻 I'm also working on **a mobile app in order to facilitate social meetings.** (so so true)
+---
 
-- 🌱 I’m currently learning **Typescript.**
+## 🔥 What I'm building at [igniters.studio](https://igniters.studio)
 
+### 🏭 An agentic factory for mobile apps
 
-- 🚀 What were my featured projects as a student in [Le Reacteur](https://github.com/lereacteur)❓ 
-<br> 💻 React
-<br> [2manydevs](https://github.com/kevintersigni/2manydevs-frontend)
-<br> [World Of Marvel](https://github.com/kevintersigni/marvel-frontend)
-<br> [Minted](https://github.com/kevintersigni/vinted-front-end)
-<br> -
-<br> 📲 React Native
-<br> [Airbnb copycat](https://github.com/kevintersigni/airbnb-reactnative)
-<br> [2manymeals](https://github.com/kevintersigni/2manymeals)
+One engine, many apps. Every app starts from the same custom Expo starter, with shared harness and analytics packages, and goes from spec to store through a `/ship` loop run by AI agents.
 
+| App | What it does | Status |
+|---|---|---|
+| [Solegaze](https://solegaze.app) | Running shoe rotation & mileage tracker | Beta on TestFlight |
+| BroPot | Subscription audit for people who forget what they pay for | Building |
+| BSLN | Athletic passport for hybrid athletes | Design |
 
+### 📊 Supertrack
 
+AI audit of your app's tracking on every PR: is what you track aligned with what the business needs to know? Built for React Native apps.
 
-- 📝 I regularly write articles on Medium (bullshit but I'm working on it !) [https://medium.com/@kevin.tersigni](https://medium.com/@kevin.tersigni)
+### 🤖 The AI workflow behind it
 
-- 📫 How to reach me: **kevin.tersigni@me.com**
+The same workflow runs the factory and my client projects:
 
-- 📄 Know about my experiences, see my [Notion Resume](https://www.notion.so/Kevin-Tersigni-7d99ee45f8264aef9444437e32e6d0eb)
+- **Harness**: Claude Code with custom hooks, plugins and skills
+- **Spec-driven development**: OpenSpec, with specs written before the code, including the user journeys to test
+- **Agentic testing**: Maestro for deterministic e2e, agents driving the simulator for exploratory runs
+- **Review & context**: AI code review, MCP servers
 
-- ⚡ Fun fact --> **I may have a little bit of Jason...**
+---
 
+### 🛠 Stack
 
+React Native · Expo · EAS · TypeScript · Swift/SwiftUI · RevenueCat · Superwall · Supabase · Firebase · Mixpanel · Jest · Maestro · GitHub Actions · GitLab CI · Fastlane · Sentry
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kevintersigni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kevintersigni/" height="30" width="40" /></a>
-<a href="https://medium.com/@kevin.tersigni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kevin.tersigni" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 📍 Background
 
+4+ years shipping React Native apps in production across retail, energy, insurance, industry and media: full rewrites from scratch, multi-tenant apps, accessibility audits, store ratings brought from 2.3 to 4.7. I currently lead a rewrite built on an agentic stack.
 
-### Blogs posts
-*Soon*
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+Before that, I founded a FoodTech startup. That's where the product-first mindset comes from, and the habit of measuring what users actually do rather than what we think they do.
+
+---
+
+### 📫 Elsewhere
+
+[igniters.studio](https://igniters.studio) · [LinkedIn](https://www.linkedin.com/in/kevintersigni/)
