@@ -16,12 +16,17 @@ One engine, many apps. Every app starts from the same custom Expo starter, with 
 | App | What it does | Status |
 |---|---|---|
 | [Solegaze](https://solegaze.app) | Running shoe rotation & mileage tracker | Beta on TestFlight |
-| BroPot | Subscription audit for people who forget what they pay for | Building |
+| BroPot | Subscription audit for ADHD and neurodivergent people who forget what they pay for | Building |
 | BSLN | Athletic passport for hybrid athletes | Design |
 
 ### 📊 Supertrack
 
 AI audit of your app's tracking on every PR: is what you track aligned with what the business needs to know? Built for React Native apps.
+
+### 📐 AREA Framework
+
+Open-source tracking framework for mobile apps that starts from business goals, not from events: four pillars, a reference KPI for each, and the minimum tracking that makes them readable. Supertrack audits against it.
+[Website](https://igniters-studio.github.io/area-framework/) · [GitHub](https://github.com/igniters-studio/area-framework)
 
 ### 🤖 The AI workflow behind it
 
